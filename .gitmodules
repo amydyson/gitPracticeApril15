@@ -1,0 +1,3 @@
+[submodule "PirateBattleship"]
+	path = PirateBattleship
+	url = https://github.com/amydyson/PirateBattleship
